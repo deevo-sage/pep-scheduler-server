@@ -25,9 +25,7 @@
   },
   "scripts": {
     "start": "nodemon",
-    "build":"tsc --p tsconfig.json ",
-    "initi":"tsc -init",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --p tsconfig.json ",
     "nmodexec": "ts-node src/index.ts"
   },
   "repository": {
